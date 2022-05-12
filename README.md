@@ -7,7 +7,7 @@
 - 👨‍💼 Know about my previous work experiences on [Linkedin](https://linkedin.com/in/isaccavalcante)
 - 🔭 I’m always learning about Monitoring & Automation
 - 📝 I occasionally write articles on my [Instablog](https://www.instagram.com/dadosvazados/)
-- 📫 Reach me through [Telegram](https://t.me/metaisac) or [Email](isac@deploygram.com)
+- 📫 Reach me through [Telegram](https://t.me/metaisac) or [Email](mailto://isac@deploygram.com)
 
 <h2 align="left">Tools and languages:</h3>
 
