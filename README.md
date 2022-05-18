@@ -3,7 +3,7 @@
 
 
 
-- 💻 I’m currently working for [Seven](https://seventechsolutions.com/) and on my project [Deploygram](https://deploygram.com/)
+- 💻 I’m currently working for [Seven](https://seventechsolutions.com/) and on my project [Deploygram](https://deploygram.com/en/)
 - 👨‍💼 Know about my previous work experiences on [Linkedin](https://linkedin.com/in/isaccavalcante)
 - 🔭 I’m always learning about Monitoring & Automation
 - 📝 I occasionally write articles on my [Instablog](https://www.instagram.com/dadosvazados/)
