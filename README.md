@@ -3,10 +3,10 @@
 
 
 
-- 💻 I’m currently working for [Seven](https://seventechsolutions.com/) and on my project [Deploygram](https://deploygram.com/en/)
+- 💻 I’m currently working for [Onnitech](https://onnitech.com.br/) and on my own project [Deploygram](https://deploygram.com/en/)
 - 👨‍💼 Know about my previous work experiences on [Linkedin](https://linkedin.com/in/isaccavalcante)
 - 🔭 I’m always learning about Monitoring & Automation
-- 📝 I occasionally write articles on my [Instablog](https://www.instagram.com/dadosvazados/)
+- 📝 I occasionally write articles on my [Gitblog](https://isaccavalcante.github.io/blog/) and [Instablog](https://www.instagram.com/dadosvazados/)
 - 📫 Reach me through [Telegram](https://t.me/metaisac) or [Email](mailto://isac@deploygram.com)
 
 <h2 align="left">Tools and languages:</h3>
