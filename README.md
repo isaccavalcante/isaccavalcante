@@ -3,7 +3,7 @@
 
 
 
-- 💻 I’m currently working for [Onnitech](https://onnitech.com.br/) and on my own project [Deploygram](https://deploygram.com/en/)
+- 💻 I’m currently working for [Teravision](https://www.teravisiontech.com/) and on my own project [Deploygram](https://deploygram.com/en/)
 - 👨‍💼 Know about my previous work experiences on [Linkedin](https://linkedin.com/in/isaccavalcante)
 - 🔭 I’m always learning about Monitoring & Automation
 - 📝 I occasionally write articles on my [Gitblog](https://isaccavalcante.github.io/blog/) and [Instablog](https://www.instagram.com/dadosvazados/)
