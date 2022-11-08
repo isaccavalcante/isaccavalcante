@@ -6,7 +6,6 @@
 - 💻 I’m currently working for [Teravision](https://www.teravisiontech.com/), outsourced to [The Moon Shot Factory](https://themoonshotfactory.com/) & [JSR Corp](https://www.jsr.co.jp/jsr_e/ir/individual/ataglance/)
 - 👨‍💼 Know about my previous work experiences on [Linkedin](https://linkedin.com/in/isaccavalcante)
 - 🔭 I’m always learning about Monitoring & Automation
-- 📝 I used to write about infosec on my [Gitblog](https://isaccavalcante.github.io/blog/) and [Instablog](https://www.instagram.com/dadosvazados/)
 - 📫 Reach me through [Telegram](https://t.me/metaisac) or [Email](mailto://isac@deploygram.com)
 
 <h2 align="left">Tools and languages:</h3>
