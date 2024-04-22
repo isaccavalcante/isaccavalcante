@@ -6,7 +6,7 @@
 - 💻 I’m currently working for my own company [Deploygram](https://deploygram.com/) outsourced to [JSR Corp](https://www.jsr.co.jp/jsr_e/ir/individual/ataglance/)
 - 👨‍💼 Know about my previous work experiences on [Linkedin](https://linkedin.com/in/isaccavalcante)
 - 🔭 I’m always learning about Monitoring & Automation
-- 📫 Reach me through [Telegram](https://t.me/metaisac) or [Email](mailto://isac@deploygram.com)
+- 📫 Reach me through [Telegram](https://t.me/isacgram) or [Email](mailto://isac@deploygram.com)
 
 <h2 align="left">Tools and languages:</h3>
 
