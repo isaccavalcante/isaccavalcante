@@ -1,4 +1,10 @@
-👋 Hi, I'm Isac and I’m currently working at [JSR Corp](https://www.jsr.co.jp/jsr_e/ir/individual/ataglance/) as a DevOps Engineer.
+# isac.py
+
+```
+#!/usr/bin/env python3
+
+print("Hi, I'm Isac and I'm currently working at JSR Corp as a DevOps Engineer")
+```
 
 ### Tools and languages:
 #### Cloud
